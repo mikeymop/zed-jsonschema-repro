@@ -1,0 +1,1 @@
+The yaml in `templates/*` should match given the workspace schema.

@@ -1,0 +1,1 @@
+The yaml in this file should not match given the supplied workspace settings.

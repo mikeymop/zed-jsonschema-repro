@@ -1,0 +1,15 @@
+// Folder-specific settings
+//
+// For a full list of overridable settings, and general information on folder-specific settings,
+// see the documentation: https://zed.dev/docs/configuring-zed#folder-specific-settings
+{
+  "lsp": {
+    "yaml-language-server": {
+      "initialization_options": {
+        "yaml.schemas": {
+          "http://json.schemastore.org/chart.json": "templates/*.yaml"
+        }
+      }
+    }
+  }
+}
